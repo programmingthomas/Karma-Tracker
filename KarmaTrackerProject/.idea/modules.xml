@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/KarmaTracker/KarmaTracker.iml" filepath="$PROJECT_DIR$/KarmaTracker/KarmaTracker.iml" />
+      <module fileurl="file://$PROJECT_DIR$/KarmaTrackerProject.iml" filepath="$PROJECT_DIR$/KarmaTrackerProject.iml" />
+    </modules>
+  </component>
+</project>
+
